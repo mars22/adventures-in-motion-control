@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ControlMode",""],["FaultKind",""]],"struct":[["Fault",""],["Home","The Go To Home [`AutomationSequence`]."],["Motion",""],["MotionParameters",""],["MoveAxisHome",""],["StartHomingSequence",""]]});
